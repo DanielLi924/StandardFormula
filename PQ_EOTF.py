@@ -47,4 +47,3 @@ fig.savefig(save_path, dpi=300)
 
 # Show the plot
 plt.show()
-
